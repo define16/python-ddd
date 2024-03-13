@@ -1,7 +1,4 @@
-from dataclasses import dataclass
-
-from seedwork.entity import Entity
-from seedwork.value_object import ValueObject
+from src.domain.seedwork import Entity
 
 
 class MockEntity(Entity):

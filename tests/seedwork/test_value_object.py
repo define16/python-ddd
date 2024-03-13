@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 
-from seedwork.value_object import ValueObject
+from src.domain.seedwork import ValueObject
 
 
 @dataclass(frozen=True)
