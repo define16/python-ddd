@@ -1,3 +1,4 @@
+pip==24.0
 inject==5.2.0
 iniconfig==2.0.0
 packaging==23.1
